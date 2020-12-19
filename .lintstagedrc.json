@@ -1,0 +1,6 @@
+{
+  "**/*.{js,jsx,json,scss,ts,tsx,yaml,yml}": [
+    "prettier-eslint --list-different --prettier-last --write",
+    "git add"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+    "all": true,
+    "modules": ["node-yarnaudit", "node-yarnoutdated"],
+    "failOn": "critical",
+    "showCode": false
+}
